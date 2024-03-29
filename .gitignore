@@ -8,5 +8,4 @@
 /.idea/
 /fx-jni/src/native/.idea/
 /fx-jni/src/native/cmake-build-debug-visual-studio/
-/gradle/
 /fx-jni/src/native/cmake-build-release-visual-studio/
